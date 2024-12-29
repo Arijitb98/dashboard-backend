@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "serialNo": 1,
+    "phase": "Initiation",
+    "status": "Completed",
+    "document": null,
+    "responsibleParty": "John Doe",
+    "updateDate": "2024-12-28",
+    "subPhases": [
+      {
+        "id": 2,
+        "serialNo": "1.1",
+        "phase": "Requirement Gathering",
+        "status": "Completed",
+        "document": "ReqDoc.pdf",
+        "responsibleParty": "Alice",
+        "updateDate": "2024-12-20"
+      },
+      {
+        "id": 3,
+        "serialNo": "1.2",
+        "phase": "Initial Approval",
+        "status": "Completed",
+        "document": null,
+        "responsibleParty": "Bob",
+        "updateDate": "2024-12-22"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "serialNo": 2,
+    "phase": "Planning",
+    "status": "Not Started",
+    "document": null,
+    "responsibleParty": "Jane Smith",
+    "updateDate": "2024-12-27",
+    "subPhases": [
+      {
+        "id": 5,
+        "serialNo": "2.1",
+        "phase": "Resource Allocation",
+        "status": "Not Started",
+        "document": "ResourceDoc.pdf",
+        "responsibleParty": "Charlie",
+        "updateDate": "2024-12-26"
+      },
+      {
+        "id": 6,
+        "serialNo": "2.2",
+        "phase": "Budget Planning",
+        "status": "Not Started",
+        "document": null,
+        "responsibleParty": "Diana",
+        "updateDate": "2024-12-25"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "serialNo": 3,
+    "phase": "Execution",
+    "status": "Not Started",
+    "document": null,
+    "responsibleParty": "Edward",
+    "updateDate": "2024-12-29",
+    "subPhases": [
+      {
+        "id": 8,
+        "serialNo": "3.1",
+        "phase": "Task Assignment",
+        "status": "Not Started",
+        "document": "TaskDoc.pdf",
+        "responsibleParty": "Fiona",
+        "updateDate": "2024-12-30"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "serialNo": 4,
+    "phase": "Monitoring",
+    "status": "Completed",
+    "document": null,
+    "responsibleParty": "George",
+    "updateDate": "2024-12-24",
+    "subPhases": []
+  },
+  {
+    "id": 10,
+    "serialNo": 5,
+    "phase": "Closure",
+    "status": "Continuing",
+    "document": null,
+    "responsibleParty": "Hannah",
+    "updateDate": "2024-12-23",
+    "subPhases": [
+      {
+        "id": 11,
+        "serialNo": "5.1",
+        "phase": "Final Review",
+        "status": "Continuing",
+        "document": null,
+        "responsibleParty": "Ian",
+        "updateDate": "2024-12-22"
+      },
+      {
+        "id": 12,
+        "serialNo": "5.2",
+        "phase": "Sign-Off",
+        "status": "Continuing",
+        "document": "SignOffDoc.pdf",
+        "responsibleParty": "Jack",
+        "updateDate": "2024-12-21"
+      }
+    ]
+  }
+]
