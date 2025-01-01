@@ -17,7 +17,7 @@ cd <project_directory>
 npm install
 ```
 
-### 4. Start the Application
+### 3. Start the Application
 
 Once you've set up the project and (optionally) configured the backend, start the development server:
 
