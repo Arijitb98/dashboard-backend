@@ -5,7 +5,7 @@
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone [https://github.com/Arijitb98/dashboard.git](https://github.com/Arijitb98/dashboard-backend.git)
+git clone https://github.com/Arijitb98/dashboard.git
 ```
 
 ### 2. Install Dependencies
