@@ -22,5 +22,5 @@ npm install
 Once you've set up the project and (optionally) configured the backend, start the development server:
 
 ```bash
-node index.js
+npm start
 ```
